@@ -1,0 +1,24 @@
+.galeria{width:100%;
+margin:2vw 11vw;
+list-style:none;
+padding:20px;
+display:flex;}
+
+
+iframe{width:30vw;
+	height:20vw;
+	margin:2vw 2vw;}
+
+.galeria a{
+display:block;
+background-image:url('imagenes/frente.jpg');
+background-position:center;
+background-origin:;
+color:#000067;
+margin:0vw 2vw;
+text-decoration:none;
+font-size:2vw;
+list-style:none;
+max-width:100%;
+}
+

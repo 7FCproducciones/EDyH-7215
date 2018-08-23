@@ -1,0 +1,25 @@
+
+.galeria{width:100%;
+margin:0vw 5vw;
+list-style:none;
+padding:0px;
+display:flex;}
+.galeria img{width:20vw;
+height:30vw;
+margin:1vw 1vw 1vw 1vw;
+}
+
+.gal{width:100%;
+margin:1vw 5vw;
+list-style:none;
+padding:0px;
+display:flex;}
+.gal img{width:20vw;
+height:30vw;
+margin:1vw 1vw 1vw 1vw;
+}
+
+
+
+
+
